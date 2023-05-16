@@ -1,0 +1,27 @@
+@media(max-width:991px){
+    header.header-link{
+        width: 100%;
+        margin-left: 0;
+        margin-bottom: 10x;
+    }
+    
+    .footer{
+        text-align: center;
+    }
+    
+    
+    
+}
+
+
+@media(max-width:1200px){
+    .container-fluid h1{
+        font-size: 20px !important;
+        
+    }
+    
+    .navbar-nav{
+        display: flex;
+        justify-content: end !important;
+    }
+}
